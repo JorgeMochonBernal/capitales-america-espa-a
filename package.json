@@ -1,0 +1,14 @@
+{
+  "name": "capitales",
+  "version": "1.0.0",
+  "description": "App que te muestra la capital del pais que le indicas ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Mochon Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}
